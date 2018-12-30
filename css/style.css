@@ -394,6 +394,10 @@ body {
 	background: #2b91c8;
 }
 
+/* 라이트 박스 */
+.square { }
+.square a {float: left; width: 19%; margin: 0.5%;  }
+.square a img {width: 100%; display: block;}
 
 
 /* mediaquery */
